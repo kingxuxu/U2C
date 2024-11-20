@@ -1,6 +1,7 @@
-firmware for BTT U2C. </br>
-for v2 G0B1 and most popular product, please use the U2C_V2_STM32G0B1.bin </br>
-follow instructions at https://lab4450.com/product/u2c/
-
-
-for u2c v1 or pican usb to can please use candleLight_fw.bin
+1.通过SSH连接到Raspberry Pi。
+2.安装依赖项：
+sudo apt-get install cmake gcc-arm-none-eabi git dfu-util
+3.下载固件：
+cd ~
+git lone https://github.com/kingxuxu/U2C
+cd u2c
