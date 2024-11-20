@@ -10,4 +10,4 @@ cd ~
 git lone https://github.com/kingxuxu/u2c
 cd u2c
 ```
-<img src="[https://github.com/kingxuxu/u2c/blob/main/Image/%E8%AE%BE%E7%BD%AE.png]" alt='Z-Calibration Logo' width='50%'>
+<img src="https://github.com/kingxuxu/u2c/blob/main/Image/%E8%AE%BE%E7%BD%AE.png" alt='设置' width='50%'>
