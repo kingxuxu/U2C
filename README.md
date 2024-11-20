@@ -1,4 +1,4 @@
-# 树莓派扩展 RP-CAN
+# STM32F072
 ## 1. 通过SSH连接到Raspberry Pi
 ## 2. 安装依赖项：
 ```
