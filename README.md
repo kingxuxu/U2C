@@ -3,5 +3,5 @@
 sudo apt-get install cmake gcc-arm-none-eabi git dfu-util
 3.下载固件：
 cd ~
-git lone https://github.com/kingxuxu/U2C
+git lone https://github.com/kingxuxu/u2c
 cd u2c
